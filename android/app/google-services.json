@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184033058092",
+    "firebase_url": "https://instaharam-36e80.firebaseio.com",
+    "project_id": "instaharam-36e80",
+    "storage_bucket": "instaharam-36e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184033058092:android:72316d0d01ceeaf20ea089",
+        "android_client_info": {
+          "package_name": "com.hassan.insta_haram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184033058092-uag0v4ltbqvjvecv3ec7c0708cbhjsa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.insta_haram",
+            "certificate_hash": "2415d99af0b64478faa0e02e00a5c1a722982264"
+          }
+        },
+        {
+          "client_id": "184033058092-psodq16nkpa2mj1md5im6dfjgcclpm0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComiS1XrgxkUrOLxSNctxaeoAlJVsKF4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184033058092-psodq16nkpa2mj1md5im6dfjgcclpm0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
