@@ -1,4 +1,22 @@
-# insta_haram
+# Memefy - A social media app
+
+
+
+<div align="center">
+    <img src="memefy_images/img1.jpeg" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="memefy_images/img2.jpeg" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="memefy_images/img3.jpeg" width="350px" >
+</div>
+
+
 
 A new Flutter application.
 
